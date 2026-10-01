@@ -1,18 +1,172 @@
-<h1 align="center">Hi 👋, I'm rohit</h1>
-<h3 align="center">A passionate learner | Aspiring Software Developer | Java • React • Spring Boot</h3>
+<!-- ===================== HEADER ===================== -->
 
-- 🌱 I’m currently learning **spring AI**
+<h1 align="center">Hi 👋, I'm Rohith</h1>
 
-- 📫 How to reach me **rohithpati07@gmail.com**
+<h3 align="center">
+  Aspiring Software Developer | Java • React • Spring Boot
+</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/rohith-pati-2007m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/rohith-pati-2007m" height="30" width="40" /></a>
-<a href="https://instagram.com/mr.rohith_pati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.rohith_pati" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pati_rohith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pati_rohith" height="30" width="40" /></a>
+<p align="center">
+  Building projects, solving problems, and learning something new every day.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithpati&show_icons=true&locale=en&layout=compact" alt="rohithpati" /></p>
+---
+
+<!-- ===================== ABOUT ME ===================== -->
+
+## 👨‍💻 About Me
+
+- 🎓 B.Sc. Computer Science student
+- 🌱 Currently learning **Spring AI and Full-Stack Development**
+- 💻 Interested in **Java, Backend Development, and AI**
+- 🧠 Practicing Data Structures and Algorithms
+- 🚀 Building projects to improve my development skills
+- 📫 Reach me at: **rohithpati07@gmail.com**
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/rohith-pati-2007m">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/mr.rohith_pati">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.leetcode.com/pati_rohith">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:rohithpati07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,c,js" alt="Java, Python, C, JavaScript" />
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react" alt="HTML, CSS, React" />
+</p>
+
+### Backend and Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,mongodb,mysql" alt="Spring Boot, MongoDB, MySQL" />
+</p>
+
+### Tools and Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea" alt="Git, GitHub, VS Code, IntelliJ IDEA" />
+</p>
+
+---
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaysharmadev&theme=tokyonight"
+    alt="GitHub Profile Summary"
+    width="100%"
+  />
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTION STREAK ===================== -->
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=udaysharmadev&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+<!-- ===================== CONTRIBUTION ACTIVITY ===================== -->
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+
+---
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/udaysharmadev">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=REPLACE_WITH_PROJECT_1&theme=tokyonight&hide_border=true"
+      alt="Featured Project 1"
+    />
+  </a>
+  <a href="https://github.com/udaysharmadev">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=udaysharmadev&repo=REPLACE_WITH_PROJECT_2&theme=tokyonight&hide_border=true"
+      alt="Featured Project 2"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/udaysharmadev?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
+
+---
+
+<!-- ===================== FOOTER ===================== -->
+
+<p align="center">
+  <i>"Consistency beats intensity. Keep learning, keep building."</i>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! ⭐
+</p>
