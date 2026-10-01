@@ -10,9 +10,7 @@
   Building projects, solving problems, and learning something new every day.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+
 
 ---
 
